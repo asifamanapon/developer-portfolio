@@ -73,3 +73,13 @@ p{
     border-radius: 10px;
     box-shadow: 10px 10px 50px gray;
 }
+
+#fullbiodata{
+    border-left: 7px solid tomato;
+}
+#expo{
+    border-left: 7px solid blue;
+}
+footer p{
+    text-align: center;
+}
