@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin:0;
     
 }
 h1{
@@ -14,14 +15,16 @@ p{
 }
 section{
     display:flex;
+    margin-bottom: 100%;
 }
 .half-width{
     width:30%;
     padding-left: 2%;
 }
-.half-width img{
-     width:100%;
-     margin-left: 100%;
+
+.half-width img {
+    width: 100%;
+    margin-left: 110%;
 }
 
 .link-button{
@@ -31,4 +34,16 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+.banner{
+    background-image: url(photos/top-banner.png);
+    background-repeat:no-repeat;
+}
+.na{
+    width: 50%;
+    margin-right: 2%;
+}
+.na img{
+    width:100%;
+
 }
