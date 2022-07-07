@@ -47,3 +47,13 @@ section{
     width:100%;
 
 }
+.yes{
+    background-image: url(photos/pinpng.com-blue-divider-png-6315288.png);
+    background-repeat: no-repeat;
+    color:orange
+}
+.dream-big{
+    background-image: url(photos/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
