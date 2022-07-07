@@ -81,5 +81,6 @@ p{
     border-left: 7px solid blue;
 }
 footer p{
+    background-color: orange;
     text-align: center;
 }
